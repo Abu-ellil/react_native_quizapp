@@ -17,9 +17,9 @@ To run the app locally, follow these steps:
 3. **Score Screen**: After answering all questions, users are directed to the score screen, where their total score is displayed along with a congratulatory message if they score 20 or above.
 
 ## Screenshots
-![Splash Screen](/screenshots/splash_screen.png)
-![Questions Screen](/screenshots/questions_screen.png)
-![Score Screen](/screenshots/score_screen.png)
+![Splash Screen](https://github.com/Abu-ellil/react_native_quizapp/assets/94858304/e2840005-4a5b-45ba-9391-ba9a8374b81a)
+![Questions Screen](https://github.com/Abu-ellil/react_native_quizapp/assets/94858304/8efe8ce7-6a41-4049-bd81-88d8c30f65a1)
+![Score Screen](https://github.com/Abu-ellil/react_native_quizapp/assets/94858304/026a90c0-f202-461b-8fc3-69693bb635db)
 
 ## Configuration
 No additional configuration is required. However, make sure you have Node.js and Expo CLI installed on your machine.
