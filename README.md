@@ -16,6 +16,10 @@ To run the app locally, follow these steps:
 2. **Questions Screen**: Users can start the quiz by pressing the "Start" button on the splash screen. They are presented with a series of questions and can select one option for each question.
 3. **Score Screen**: After answering all questions, users are directed to the score screen, where their total score is displayed along with a congratulatory message if they score 20 or above.
 
+
+https://github.com/Abu-ellil/react_native_quizapp/assets/94858304/83b91f69-5404-4f20-898b-53653ab50d69
+
+
 ## Screenshots
 ![Splash Screen](https://github.com/Abu-ellil/react_native_quizapp/assets/94858304/e2840005-4a5b-45ba-9391-ba9a8374b81a)
 ![Questions Screen](https://github.com/Abu-ellil/react_native_quizapp/assets/94858304/8efe8ce7-6a41-4049-bd81-88d8c30f65a1)
